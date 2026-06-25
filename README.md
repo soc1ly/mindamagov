@@ -25,8 +25,6 @@ working with libs papi, lp, pp, dh, vault and more
 <img src="https://tenor.com/view/hell-going-tohell-gif-19017192" width="55%">
 </div>
 
-<div class="tenor-gif-embed" data-postid="19017192" data-share-method="host" data-aspect-ratio="2.03822" data-width="100%"><a href="https://tenor.com/view/hell-going-tohell-gif-19017192">Hell Going GIF</a>from <a href="https://tenor.com/search/hell-gifs">Hell GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <div align="center">
 
 </div>
