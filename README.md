@@ -11,7 +11,6 @@
 <div align="center">
 
 **about me**
-
 developer of minecraft servers<br>
 specialize in box pvp<br>
 typing in java, js, ahk (v1, v2)<br>
