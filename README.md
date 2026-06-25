@@ -2,8 +2,7 @@
 <div align="center">
 
 
-<br>
-<br>
+
 <img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" width="85%">
 
 </div>
