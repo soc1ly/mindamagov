@@ -22,7 +22,7 @@ working with libs papi, lp, pp, dh, vault and more
 
 
 <div align="center">
-<img src="https://imgur.com/a/w9Vp9I6" width="55%">
+<img src="https://i.imgur.com/rvMW7HB.gif" width="55%">
 </div>
 
 <div align="center">
